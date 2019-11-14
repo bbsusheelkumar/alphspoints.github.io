@@ -10,7 +10,7 @@
 
 
 
-##### Let's get into Part 1: Creating a GitHub Webpage repository.
+#### Let's get into Part 1: Creating a GitHub Webpage repository.
 
 - If you don't have a GitHub Account then it's time for you to create one. (it's Free, but there is a paid version too with some added benefits)
 - If you have a GitHub Account or you are done creating one, then here is the next thing:
@@ -30,7 +30,7 @@
 
 
 
-##### Let's get into Part 2: Creating a resume using MS Word or other such Word/DOC Processor & Creator and Converting the DOC resume to HTML+CSS.
+#### Let's get into Part 2: Creating a resume using MS Word or other such Word/DOC Processor & Creator and Converting the DOC resume to HTML+CSS.
 
 - Create a resume/CV using an Word Processor (Microsoft Word, OpenLibre etc).
 
@@ -50,7 +50,7 @@
 
 
 
-##### At last get into Part 3: Uploading Resume/CV webpage to GitHub repo.
+#### At last get into Part 3: Uploading Resume/CV webpage to GitHub repo.
 
 - Here is the final step, Go to "Code" section of the repo >> open index.html file in our repo which we previously created.
 
