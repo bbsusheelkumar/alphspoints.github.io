@@ -8,6 +8,8 @@
 2. Creating a resume using MS Word or other such Word/DOC Processor & Creator and Converting the DOC resume to HTML+CSS
 3. Uploading Resume/CV webpage to GitHub repo
 
+------
+
 
 
 #### Let's get into Part 1: Creating a GitHub Webpage repository.
@@ -27,6 +29,8 @@
 - Now you can see that in GitHub Pages part, it shows the URL with which you can access your webpage/CV/Resume
 
 > TIP: To have a short and easy URL, make the name of repository as your_github_username.github.io (E.g.: http://bbsusheelkumar.github.io) to access webpage using it as URL >> Check https://pages.github.com
+
+------
 
 
 
