@@ -26,7 +26,7 @@
 - You will find 'GitHub Pages' settings >> in this part, select the Source as "master branch"
 - Now you can see that in GitHub Pages part, it shows the URL with which you can access your webpage/CV/Resume
 
-> TIP: To have a short and easy URL, make the name of repository as your_github_username.github.io (E.g.: [bbsusheelkumar.github.io]()) to access webpage using it as URL >> Check https://pages.github.com
+> TIP: To have a short and easy URL, make the name of repository as your_github_username.github.io (E.g.: [](bbsusheelkumar.github.io)) to access webpage using it as URL >> Check https://pages.github.com
 
 
 
