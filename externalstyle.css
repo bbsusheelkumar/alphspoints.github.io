@@ -1,4 +1,4 @@
-﻿@import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,600,700,900&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,600,700,900&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,600,700,900&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,600,700,900&display=swap);
@@ -12,6 +12,24 @@
 
 .no-break {
   page-break-inside: avoid;
+}
+
+#printOnly {
+   display : none;
+}
+
+@media print {
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    #printOnly {
+       display : block;
+    }
+    @page {
+      size: A4; /* DIN A4 standard, Europe */
+      margin:0;
+    }
 }
 
 .src-components-ResumePreview---preview--1-JYQ {
